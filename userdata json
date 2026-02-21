@@ -1,0 +1,26 @@
+[
+  {
+    "device_id": "78690caa1548e80b",
+    "key": "pro",
+    "expirydate": "21-02-2027",
+    "Allowoffline": true
+  },
+  {
+    "device_id": "b50c99953c8f2b5e",
+    "key": "Sazzat",
+    "expirydate": "21-02-2027",
+    "Allowoffline": true
+  },
+  {
+    "device_id": "439725356877854a",
+    "key": "Nizam",
+    "expirydate": "21-02-2027",
+    "Allowoffline": true
+  },
+  {
+    "device_id": "7d7b8e73b28406eb",
+    "key": "ST1",
+    "expirydate": "31-03-2027",
+    "Allowoffline": true
+  }
+]

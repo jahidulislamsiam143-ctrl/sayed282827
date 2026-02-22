@@ -34,5 +34,11 @@
     "key": "Siam",
     "expirydate": "31-03-2027",
     "Allowoffline": true
+  },
+{
+    "device_id": "dfe078181d2a284c",
+    "key": "nahidul",
+    "expirydate": "31-03-2027",
+    "Allowoffline": true
   }
 ]

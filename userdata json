@@ -40,5 +40,11 @@
     "key": "nahidul",
     "expirydate": "31-03-2027",
     "Allowoffline": true
+  },
+{
+    "device_id": "dfeecb615fa56444",
+    "key": "SP1",
+    "expirydate": "31-03-2027",
+    "Allowoffline": true
   }
 ]

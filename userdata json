@@ -46,5 +46,11 @@
     "key": "SP1",
     "expirydate": "31-03-2027",
     "Allowoffline": true
-  }
+  },
+{
+    "device_id": "ee8ad9ed90ca2a3d",
+    "key": "admin",
+    "expirydate": "31-03-2027",
+    "Allowoffline": true
+  },
 ]

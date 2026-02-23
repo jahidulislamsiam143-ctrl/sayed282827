@@ -58,10 +58,17 @@
     "key": "ujjol",
     "expirydate": "26-02-2026",
     "Allowoffline": true
-  },{
+  },
+{
     "device_id": "815bb660b23e61c7",
     "key": "rahad",
     "expirydate": "24-02-2026",
+    "Allowoffline": true
+  },
+{
+    "device_id": "127f9733973232a0",
+    "key": "hasib",
+    "expirydate": "26-02-2026",
     "Allowoffline": true
   }
 ]

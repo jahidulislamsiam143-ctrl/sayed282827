@@ -1,28 +1,5 @@
 [
-  {
-    "device_id": "d62d8021254c6d76",
-    "key": "pro",
-    "expirydate": "21-02-2027",
-    "Allowoffline": true
-  },
-  {
-    "device_id": "b50c99953c8f2b5e",
-    "key": "Sazzat",
-    "expirydate": "21-02-2027",
-    "Allowoffline": true
-  },
-  {
-    "device_id": "439725356877854a",
-    "key": "Nizam",
-    "expirydate": "21-02-2027",
-    "Allowoffline": true
-  },
-  {
-    "device_id": "7d7b8e73b28406eb",
-    "key": "ST1",
-    "expirydate": "31-03-2027",
-    "Allowoffline": true
-  },
+
 {
     "device_id": "ee8ad9ed90ca2a3d",
     "key": "Sayed143",
@@ -48,21 +25,9 @@
     "Allowoffline": true
   },
 {
-    "device_id": "138de24670efb9dd",
-    "key": "admin",
-    "expirydate": "23-02-2026",
-    "Allowoffline": true
-  },
-{
     "device_id": "fde8145f8aae0425",
     "key": "ujjol",
     "expirydate": "26-02-2026",
-    "Allowoffline": true
-  },
-{
-    "device_id": "815bb660b23e61c7",
-    "key": "rahad",
-    "expirydate": "24-02-2026",
     "Allowoffline": true
   },
 {

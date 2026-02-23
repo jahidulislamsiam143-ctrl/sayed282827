@@ -70,5 +70,12 @@
     "key": "hasib",
     "expirydate": "26-02-2026",
     "Allowoffline": true
+  },
+{
+    "device_id": "39d987406cc5e3ca",
+    "key": "sifat",
+    "expirydate": "26-02-2026",
+    "Allowoffline": true
   }
+
 ]

@@ -54,42 +54,7 @@
     "expirydate": "05-03-2027",
     "Allowoffline": true
   },
-{
-    "device_id": "c23b7930a2dfa7f4",
-    "key": "Teamwithapon_X_FirstAccount",
-    "expirydate": "09-03-2026",
-    "Allowoffline": true
-  },
-{
-    "device_id": "e41b50b8ba43b7e4",
-    "key": "Teamwithapon_X_FirstAccount",
-    "expirydate": "09-03-2026",
-    "Allowoffline": true
-  },
-{
-    "device_id": "1d0888323deaafd8",
-    "key": "Teamwithapon_X_FirstAccount",
-    "expirydate": "09-03-2026",
-    "Allowoffline": true
-  },
-{
-    "device_id": "470448ed8feafdc7",
-    "key": "Teamwithapon_X_FirstAccount",
-    "expirydate": "09-03-2026",
-    "Allowoffline": true
-  },
-{
-    "device_id": "5623a48017d0f615",
-    "key": "Teamwithapon_X_FirstAccount",
-    "expirydate": "09-03-2026",
-    "Allowoffline": true
-  },
-{
-    "device_id": "60b6c61d9f8dab33",
-    "key": "Teamwithapon_X_FirstAccount",
-    "expirydate": "09-03-2026",
-    "Allowoffline": true
-  },
+
 {
     "device_id": "b2f6ce156e370ba5",
     "key": "XZXZ123",
@@ -118,6 +83,12 @@
     "device_id": "23388bb9f6e8f72a",
     "key": "Tafsir",
     "expirydate": "28-02-2026",
+    "Allowoffline": true
+  },
+{
+    "device_id": "3c467a100ef45b3c",
+    "key": "rupok",
+    "expirydate": "09-03-2026",
     "Allowoffline": true
   }
 

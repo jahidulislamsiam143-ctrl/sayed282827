@@ -88,7 +88,13 @@
 {
     "device_id": "3c467a100ef45b3c",
     "key": "rupok",
-    "expirydate": "09-03-2026",
+    "expirydate": "01-03-2027",
+    "Allowoffline": true
+  },
+{
+    "device_id": "6afed804028ca0df",
+    "key": "Shoron",
+    "expirydate": "27-02-2026",
     "Allowoffline": true
   }
 

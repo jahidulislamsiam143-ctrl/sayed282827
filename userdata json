@@ -113,6 +113,12 @@
     "key": "Sifat03",
     "expirydate": "25-03-2026",
     "Allowoffline": true
+  },
+{
+    "device_id": "23388bb9f6e8f72a",
+    "key": "Tafsir",
+    "expirydate": "28-02-2026",
+    "Allowoffline": true
   }
 
 ]

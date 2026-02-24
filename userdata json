@@ -96,6 +96,12 @@
     "key": "Shoron",
     "expirydate": "27-02-2026",
     "Allowoffline": true
+  },
+{
+    "device_id": "4217fd4f19d0e2f8",
+    "key": "denzel",
+    "expirydate": "09-03-2027",
+    "Allowoffline": true
   }
 
 ]

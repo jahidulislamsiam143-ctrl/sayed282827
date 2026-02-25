@@ -162,6 +162,12 @@
     "key": "sabbir1",
     "expirydate": "10-03-2027",
     "Allowoffline": true
+  },
+{
+    "device_id": "d3e449d2ca3cbcba",
+    "key": "Emon",
+    "expirydate": "28-02-2026",
+    "Allowoffline": true
   }
 
 ]

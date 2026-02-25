@@ -187,5 +187,11 @@
     "expirydate": "28-02-2026",
     "Allowoffline": true
   },
+{
+    "device_id": "72a25132d3e39c01",
+    "key": "try1h",
+    "expirydate": "26-02-2026",
+    "Allowoffline": true
+  },
 
 ]

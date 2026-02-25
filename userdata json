@@ -150,6 +150,12 @@
     "key": "Priya",
     "expirydate": "10-03-2026",
     "Allowoffline": true
+  },
+{
+    "device_id": "6fe0b7bddb666ca6",
+    "key": "sahos3",
+    "expirydate": "10-03-2026",
+    "Allowoffline": true
   }
 
 ]

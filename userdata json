@@ -156,6 +156,12 @@
     "key": "sahos3",
     "expirydate": "10-03-2026",
     "Allowoffline": true
+  },
+{
+    "device_id": "80edec0e9f8c3b39",
+    "key": "sabbir1",
+    "expirydate": "10-03-2027",
+    "Allowoffline": true
   }
 
 ]

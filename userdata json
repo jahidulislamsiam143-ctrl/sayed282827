@@ -144,6 +144,12 @@
     "key": "sahos2",
     "expirydate": "10-03-2026",
     "Allowoffline": true
+  },
+{
+    "device_id": "61e6622e1e582af7",
+    "key": "Priya",
+    "expirydate": "10-03-2026",
+    "Allowoffline": true
   }
 
 ]

@@ -205,5 +205,12 @@
     "expirydate": "27-02-2026",
     "Allowoffline": true
   },
+{
+    "device_id": "abaa6d64f396d784",
+    "key": "rabbi",
+    "expirydate": "02-03-2026",
+    "Allowoffline": true
+  },
+
 
 ]

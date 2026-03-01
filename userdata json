@@ -211,6 +211,13 @@
     "expirydate": "02-03-2026",
     "Allowoffline": true
   },
+{
+    "device_id": "b2f6ce156e370ba5",
+    "key": "sifatdada",
+    "expirydate": "10-03-2026",
+    "Allowoffline": true
+  },
+
 
 
 ]

@@ -58,7 +58,7 @@
 {
     "device_id": "b2f6ce156e370ba5",
     "key": "XZXZ123",
-    "expirydate": "1-03-2026",
+    "expirydate": "10-03-2026",
     "Allowoffline": true
   },
 {
@@ -210,13 +210,7 @@
     "key": "rabbi",
     "expirydate": "02-03-2026",
     "Allowoffline": true
-  },
-{
-    "device_id": "b2f6ce156e370ba5",
-    "key": "sifatdada",
-    "expirydate": "10-03-2026",
-    "Allowoffline": true
-  },
+  }
 
 
 
